@@ -1,0 +1,55 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	background: rgb(110,160,176);
+}
+.box {
+	width: 900px;
+	margin: 0 auto;
+}
+.header {
+	height: 90px;
+	background: #FF0000;
+}
+.nav {
+	height: 50px;
+	background: #ABAF0D;
+}
+.main {
+	background:rgb(0,102,255);
+	padding: 20px 40px 40px 10px;
+	display: inline-block;
+}
+.left {
+	display: inline;
+	margin-left: 20px;
+	width: 550px;
+	float: left;
+}
+.right {
+	display: inline;
+	width: 250px;
+	float: left;
+	background: rgb(110,160,176);
+	height: 50px;
+	margin-left: 30px;
+}
+.l1 {
+	height: 50px; 
+	background: rgb(110,160,176);
+}
+
+.link {
+	display: block;
+	line-height: 40px;
+	height: 40px;
+	width: 100px;
+	background: #FF0000;
+	text-align: center;
+	text-decoration: none;
+}
+
+.link:hover {
+	background: #00FF00;
+}
