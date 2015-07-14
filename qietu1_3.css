@@ -1,0 +1,39 @@
+.main{
+	width: 961px;
+	margin:0 auto; 
+	margin-top: 8px;
+}
+.pic{
+	width:961px;
+	margin:0 auto;
+	height: 292px;
+	background-image: url(img/pic_pre.jpg);
+	background-repeat: no-repeat;
+}
+.pic:hover{
+	background-image: url(img/pic.jpg);
+	background-repeat: no-repeat;
+}
+.inf{
+	width: 961px;
+	background-image: url(img/inf.jpg);
+	background-repeat: no-repeat;
+	background-position: top left;
+	margin: 0px auto;
+	height: 32px;
+}
+.information{
+	float: left;
+	font-size: 12px;
+	margin-left: 110px;
+	text-decoration: none;
+	line-height: 32px;
+	color: #000000;
+}
+.breakline{
+	width: 961px;
+	background-image: url(img/breakline.jpg);
+	background-repeat: no-repeat;
+	margin: 0px auto;
+	height: 13px;
+}
