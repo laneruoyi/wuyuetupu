@@ -1,0 +1,43 @@
+body{
+	background-image: url(bg.jpg);
+	background-repeat:no-repeat;
+	background-position:top center;
+	margin:0;
+	padding: 0;
+}
+.wid{
+	width: 1000px;
+	padding:0 15px;
+	margin:0 auto;
+}
+.heading{
+	width:960;
+	height: 80px;
+	margin:0 auto;
+}
+.name{
+	float:left;
+	margin-top: 25px;
+}
+.func{
+	float: right;
+	width:250px;
+}
+.collection{
+	height: 20px;
+	width:55px;
+	margin: 10px 11px;
+	float: right;
+}
+.mailto{
+	height: 20px;
+	width:55px;
+	margin: 10px 11px;
+	float: right;
+}
+.homepage{
+	height: 20px;
+	width:55px;
+	margin: 10px 11px;
+	float: right;
+}
